@@ -2,50 +2,30 @@
 
 ## Índice
 
-- [1 Gestión de compras y ventas ....................................................................................................... 3](#1-gestión-de-compras-y-ventas--3)
-- [1.1 Creación de socios ............................................................................................................... 4](#11-creación-de-socios--4)
-- [1.2 Productos.............................................................................................................................. 6](#12-productos-6)
-- [1.3 Compras............................................................................................................................... 8](#13-compras-8)
-- [1.4 Ventas................................................................................................................................. 11](#14-ventas-11)
-- [1.5 Devoluciones...................................................................................................................... 13](#15-devoluciones-13)
-- [1.6 Informes............................................................................................................................. 14](#16-informes-14)
-- [2 Gestión de almacén .................................................................................................................... 15](#2-gestión-de-almacén--15)
-- [3 Gestión de contabilidad ............................................................................................................. 21](#3-gestión-de-contabilidad--21)
-- [3.1 Diarios................................................................................................................................ 21](#31-diarios-21)
-- [3.2 Impuestos........................................................................................................................... 23](#32-impuestos-23)
-- [3.3 Mecanismos de pago .......................................................................................................... 24](#33-mecanismos-de-pago--24)
-- [4 Gestión de recursos humanos .................................................................................................... 25](#4-gestión-de-recursos-humanos--25)
-- [4.1 Gestión de empleados y contratos ...................................................................................... 26](#41-gestión-de-empleados-y-contratos--26)
-- [4.2 Gestión de la asistencia ...................................................................................................... 28](#42-gestión-de-la-asistencia--28)
-- [5 Gestión de las relaciones con los clientes CRM ........................................................................ 30](#5-gestión-de-las-relaciones-con-los-clientes-crm--30)
-- [6 Utilización del TPV ................................................................................................................... 36](#6-utilización-del-tpv--36)
-- [7 Generación de sitio web de empresa .......................................................................................... 39](#7-generación-de-sitio-web-de-empresa--39)
-- [8 Tienda online.............................................................................................................................. 40](#8-tienda-online-40)
-- [9 Auditoría y control ..................................................................................................................... 41](#9-auditoría-y-control--41)
-- [9.1 PostgreSQL........................................................................................................................ 41](#91-postgresql-41)
-- [9.2 Servidor.............................................................................................................................. 44](#92-servidor-44)
-- [1 Gestión de compras y ventas](#1-gestión-de-compras-y-ventas)
-- [1.1 Creación de socios](#11-creación-de-socios)
-- [1.2 Productos](#12-productos)
-- [1.3 Compras](#13-compras)
-- [1.4 Ventas](#14-ventas)
-- [1.5 Devoluciones](#15-devoluciones)
-- [1.6 Informes](#16-informes)
-- [2 Gestión de almacén](#2-gestión-de-almacén)
-- [3 Gestión de contabilidad](#3-gestión-de-contabilidad)
-- [3.1 Diarios](#31-diarios)
-- [3.2 Impuestos](#32-impuestos)
-- [3.3 Mecanismos de pago](#33-mecanismos-de-pago)
-- [4 Gestión de recursos humanos](#4-gestión-de-recursos-humanos)
-- [4.1 Gestión de empleados y contratos](#41-gestión-de-empleados-y-contratos)
-- [4.2 Gestión de la asistencia](#42-gestión-de-la-asistencia)
-- [5 Gestión de las relaciones con los clientes CRM](#5-gestión-de-las-relaciones-con-los-clientes-crm)
-- [6 Utilización del TPV](#6-utilización-del-tpv)
-- [7 Generación de sitio web de empresa](#7-generación-de-sitio-web-de-empresa)
-- [8 Tienda online](#8-tienda-online)
-- [9 Auditoría y control](#9-auditoría-y-control)
-- [9.1 PostgreSQL](#91-postgresql)
-- [9.2 Servidor](#92-servidor)
+- 1 Gestión de compras y ventas
+	- 1.1 Creación de socios
+	- 1.2 Productos
+	- 1.3 Compras
+	- 1.4 Ventas
+	- 1.5 Devoluciones
+	- 1.6 Informes
+- 2 Gestión de almacén
+- 3 Gestión de contabilidad
+	- 3.1 Diarios
+	- 3.2 Impuestos
+	- 3.3 Mecanismos de pago
+- 4 Gestión de recursos humanos
+	- 4.1 Gestión de empleados y contratos
+	- 4.2 Gestión de la asistencia
+- 5 Gestión de las relaciones con los clientes (CRM)
+- 6 Utilización del TPV
+- 7 Generación de sitio web de empresa
+- 8 Tienda online
+- 9 Auditoría y control
+	- 9.1 PostgreSQL
+	- 9.2 Servidor
+
+[⬅ Volver al índice](#índice)
 
 <a id="1-gestión-de-compras-y-ventas--3"></a>
 

@@ -2,46 +2,28 @@
 
 ## Índice
 
-- [1 Introducción. Tipos de empresa y sus necesidades ...................................................................... 3](#1-introducción-tipos-de-empresa-y-sus-necesidades--3)
-- [2 Ciclo de vida del sistema ERP ..................................................................................................... 4](#2-ciclo-de-vida-del-sistema-erp--4)
-- [2.1 Adopción.............................................................................................................................. 4](#21-adopción-4)
-- [2.2 Selección.............................................................................................................................. 5](#22-selección-5)
-- [2.3 Implantación......................................................................................................................... 6](#23-implantación-6)
-- [2.4 Puesta en marcha ................................................................................................................ 10](#24-puesta-en-marcha--10)
-- [3 Adaptación del sistema ERP a una empresa .............................................................................. 11](#3-adaptación-del-sistema-erp-a-una-empresa--11)
-- [4 Operativa del sistema ERP ........................................................................................................ 12](#4-operativa-del-sistema-erp--12)
-- [4.1 Modelo de Objetos ............................................................................................................. 12](#41-modelo-de-objetos--12)
-- [4.2 Control de acceso: Grupos, Usuarios y Permisos .............................................................. 12](#42-control-de-acceso-grupos-usuarios-y-permisos--12)
-- [4.3 Modificación de los Menús ................................................................................................ 19](#43-modificación-de-los-menús--19)
-- [4.4 Creación y Modificación de Objetos del Sistema. Vistas .................................................. 22](#44-creación-y-modificación-de-objetos-del-sistema-vistas--22)
-- [4.4.1 Gestión de vistas ......................................................................................................... 22](#441-gestión-de-vistas--22)
-- [4.4.2 Creación de un nuevo campo en un objeto existente y modificación de sus vistas](#442-creación-de-un-nuevo-campo-en-un-objeto-existente-y-modificación-de-sus-vistas)
-- [4.4.3 Creación de un nuevo objeto y sus vistas asociadas .................................................. 33](#443-creación-de-un-nuevo-objeto-y-sus-vistas-asociadas--33)
-- [4.4.4 Creación de relaciones entre objetos .......................................................................... 39](#444-creación-de-relaciones-entre-objetos--39)
-- [4.5 Gestión de Tableros ............................................................................................................ 43](#45-gestión-de-tableros--43)
-- [4.6 Informes Personalizados .................................................................................................... 45](#46-informes-personalizados--45)
-- [4.7 Herencia de Vistas .............................................................................................................. 53](#47-herencia-de-vistas--53)
-- [4.8 Creación de Manuales ........................................................................................................ 55](#48-creación-de-manuales--55)
-- [1 Introducción. Tipos de empresa y sus necesidades](#1-introducción-tipos-de-empresa-y-sus-necesidades)
-- [2 Ciclo de vida del sistema ERP](#2-ciclo-de-vida-del-sistema-erp)
-- [2.1 Adopción](#21-adopción)
-- [2.2 Selección](#22-selección)
-- [2.3 Implantación](#23-implantación)
-- [2.4 Puesta en marcha](#24-puesta-en-marcha)
-- [3 Adaptación del sistema ERP a una empresa](#3-adaptación-del-sistema-erp-a-una-empresa)
-- [4 Operativa del sistema ERP](#4-operativa-del-sistema-erp)
-- [4.1 Modelo de Objetos](#41-modelo-de-objetos)
-- [4.2 Control de acceso: Grupos, Usuarios y Permisos](#42-control-de-acceso-grupos-usuarios-y-permisos)
-- [4.3 Modificación de los Menús](#43-modificación-de-los-menús)
-- [4.4 Creación y Modificación de Objetos del Sistema. Vistas](#44-creación-y-modificación-de-objetos-del-sistema-vistas)
-- [4.4.1 Gestión de vistas](#441-gestión-de-vistas)
-- [4.4.2 Creación de un nuevo campo en un objeto existente y modificación de sus vistas](#442-creación-de-un-nuevo-campo-en-un-objeto-existente-y-modificación-de-sus-vistas)
-- [4.4.3 Creación de un nuevo objeto y sus vistas asociadas](#443-creación-de-un-nuevo-objeto-y-sus-vistas-asociadas)
-- [4.4.4 Creación de relaciones entre objetos](#444-creación-de-relaciones-entre-objetos)
-- [4.5 Gestión de Tableros](#45-gestión-de-tableros)
-- [4.6 Informes Personalizados](#46-informes-personalizados)
-- [4.7 Herencia de Vistas](#47-herencia-de-vistas)
-- [4.8 Creación de Manuales](#48-creación-de-manuales)
+- 1 Introducción. Tipos de empresa y sus necesidades
+- 2 Ciclo de vida del sistema ERP
+	- 2.1 Adopción
+	- 2.2 Selección
+	- 2.3 Implantación
+	- 2.4 Puesta en marcha
+- 3 Adaptación del sistema ERP a una empresa
+- 4 Operativa del sistema ERP
+	- 4.1 Modelo de Objetos
+	- 4.2 Control de acceso: Grupos, Usuarios y Permisos
+	- 4.3 Modificación de los Menús
+	- 4.4 Creación y Modificación de Objetos del Sistema. Vistas
+		- 4.4.1 Gestión de vistas
+		- 4.4.2 Creación de un nuevo campo en un objeto existente y modificación de sus vistas
+		- 4.4.3 Creación de un nuevo objeto y sus vistas asociadas
+		- 4.4.4 Creación de relaciones entre objetos
+	- 4.5 Gestión de Tableros
+	- 4.6 Informes Personalizados
+	- 4.7 Herencia de Vistas
+	- 4.8 Creación de Manuales
+
+[⬅ Volver al índice](#índice)
 
 <a id="1-introducción-tipos-de-empresa-y-sus-necesidades--3"></a>
 
